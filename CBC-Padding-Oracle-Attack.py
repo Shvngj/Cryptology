@@ -6,7 +6,6 @@
 
 # 17. The CBC padding oracle
 # https://www.youtube.com/watch?v=aH4DENMN_O4
-import base64
 from Crypto.Cipher import AES
 from Crypto.Random import get_random_bytes
 
