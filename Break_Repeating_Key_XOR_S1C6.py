@@ -3,7 +3,7 @@
 
 # In[ ]:
 
-
+# For reference check the below sites:
 # https://thmsdnnr.com/tutorials/javascript/cryptopals/2017/09/16/cryptopals-set1-challenge-6-break-repeating-key-XOR.html
 # https://laconicwolf.com/2018/06/30/cryptopals-challenge-6-break-repeating-key-xor/
 
